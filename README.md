@@ -18,3 +18,5 @@ cd sengsinthan
 ## Author
 
 Seng Sinthan
+
+- LinkedIn: [sengsinthan](https://linkedin.com/in/sengsinthan)
